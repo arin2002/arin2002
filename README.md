@@ -36,7 +36,13 @@
 <br/>
 
 ---
+<h1>
+<details>
+<summary>📊 Github Stats</summary>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arin2002&show_icons=true&theme=gotham" alt="Arin Agarwal | Stats" />
+</details>
+</h1>
 ## 🎯 Stats:
 [<img src="https://komarev.com/ghpvc/?username=arin2002&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/arin2002)
 
