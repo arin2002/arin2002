@@ -19,11 +19,11 @@
 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JAVA" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
-<img align="left" alt="DART" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"> 
+<!-- <img align="left" alt="DART" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">  -->
 <img align="left" alt="C" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
 <img align="left" alt="C++" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="julia" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"> 
-<img align="left" alt="flutter" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"> 
+<!-- <img align="left" alt="julia" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg">  -->
+<!-- <img align="left" alt="flutter" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">  -->
 <img align="left" alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter Notebook" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
@@ -38,7 +38,7 @@
 ---
 
 ## 🎯 Stats:
-[<img src="https://komarev.com/ghpvc/?username=arin2002&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/Ash20vyas)
+[<img src="https://komarev.com/ghpvc/?username=arin2002&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/arin2002)
 
 <img alt="ARIN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arin2002&show_icons=true&count_private=true&theme=tokyonight" />
 
@@ -52,9 +52,9 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">Connect with me:
 
 
-[<img align="left" alt="Ashutosh | LinkedIn" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="Ashutosh | Instagram" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
-<!-- [<img align="left" alt="Ashutosh | Discord" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
+[<img align="left" alt="arin | LinkedIn" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="arin | Instagram" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="arin | Discord" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
  -->
 [instagram]: https://www.instagram.com/_arin_agarwal/
 [linkedin]: https://www.linkedin.com/in/arin-agarwal-0757b922a/
