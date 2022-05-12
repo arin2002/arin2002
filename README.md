@@ -43,6 +43,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arin2002&show_icons=true&theme=gotham" alt="Arin Agarwal | Stats" />
 </details>
 </h1>
+
+
+![Arin Agarwal github activity graph](https://activity-graph.herokuapp.com/graph?username=arin2002&theme=react-dark)
+
 ## 🎯 Stats:
 [<img src="https://komarev.com/ghpvc/?username=arin2002&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/arin2002)
 
