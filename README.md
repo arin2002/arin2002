@@ -6,7 +6,7 @@
 - 🔭 I’m currently exploring `Deep Learning` and `Web Development`
 - 🌱 I’m currently learning `Data Structures and Algorithms`
 - 👯 Open to collaborate.
-- 💼 VIew my [Portfolio](https://ashutosh-vyas.vercel.app).
+<!-- - 💼 VIew my [Portfolio](https://ashutosh-vyas.vercel.app). -->
 <!-- - 👨‍💻 View my [Projects](https://github.com/Ash20vyas?tab=repositories). -->
 <!-- - 💪 Check out my latest project: [Stock Market Prediction](https://github.com/Ash20vyas/TSF-Intern-Tasks/tree/main/%232%20-%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis) -->
 - ⚡ Hobbies: Reading, Chess, Working out.
@@ -38,7 +38,7 @@
 ---
 
 ## 🎯 Stats:
-[<img src="https://komarev.com/ghpvc/?username=Ash20vyas&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/Ash20vyas)
+[<img src="https://komarev.com/ghpvc/?username=arin2002&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/Ash20vyas)
 
 <img alt="ARIN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ash20vyas&show_icons=true&count_private=true&theme=tokyonight" />
 
@@ -58,8 +58,8 @@
 
 [instagram]: https://www.instagram.com/_arin_agarwal/
 [linkedin]: https://www.linkedin.com/in/arin-agarwal-0757b922a/
-[discord]: https://discordapp.com/users/532831398994771969
-
+<!-- [discord]: https://discordapp.com/users/532831398994771969
+ -->
 <br/>
 <br/>
 
