@@ -40,13 +40,13 @@
 ## 🎯 Stats:
 [<img src="https://komarev.com/ghpvc/?username=arin2002&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/Ash20vyas)
 
-<img alt="ARIN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ash20vyas&show_icons=true&count_private=true&theme=tokyonight" />
+<img alt="ARIN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arin2002&show_icons=true&count_private=true&theme=tokyonight" />
 
 
 
 ## 📝 Language stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash20vyas&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin2002&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">Connect with me:
@@ -54,8 +54,8 @@
 
 [<img align="left" alt="Ashutosh | LinkedIn" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Ashutosh | Instagram" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
-[<img align="left" alt="Ashutosh | Discord" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
-
+<!-- [<img align="left" alt="Ashutosh | Discord" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
+ -->
 [instagram]: https://www.instagram.com/_arin_agarwal/
 [linkedin]: https://www.linkedin.com/in/arin-agarwal-0757b922a/
 <!-- [discord]: https://discordapp.com/users/532831398994771969
