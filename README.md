@@ -1,16 +1,16 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ashutosh Vyas</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Arin Agarwal</h1>
 <img src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" alt="Code GIF" width="500" align="right">
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">I'm a CS undergrad.
 
-- 🔭 I’m currently exploring `Deep Learning` and `Artificial Neural Network`
+- 🔭 I’m currently exploring `Deep Learning` and `Web Development`
 - 🌱 I’m currently learning `Data Structures and Algorithms`
 - 👯 Open to collaborate.
 - 💼 VIew my [Portfolio](https://ashutosh-vyas.vercel.app).
-- 👨‍💻 View my [Projects](https://github.com/Ash20vyas?tab=repositories).
-- 💪 Check out my latest project: [Stock Market Prediction](https://github.com/Ash20vyas/TSF-Intern-Tasks/tree/main/%232%20-%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis)
+<!-- - 👨‍💻 View my [Projects](https://github.com/Ash20vyas?tab=repositories). -->
+<!-- - 💪 Check out my latest project: [Stock Market Prediction](https://github.com/Ash20vyas/TSF-Intern-Tasks/tree/main/%232%20-%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis) -->
 - ⚡ Hobbies: Reading, Chess, Working out.
-- 📫 Contact me at **Ashutoshvyas291@gmail.com**
+- 📫 Contact me at **arin.agarwal02@gmail.com**
 <br/>
 
 ---
