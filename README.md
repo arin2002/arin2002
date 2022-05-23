@@ -17,6 +17,10 @@
 #  **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Visitor Count](https://profile-counter.glitch.me/{arin2002}/count.svg)
 <div align="center">
+<img src="https://img.shields.io/github/followers/PanwarAyush.svg?style=social&label=Follow"></img>
+</div>
+
+<div align="center">
 <img src="https://img.shields.io/github/followers/arin2002.svg?style=social&label=Follow"></img>
 </div>
 
