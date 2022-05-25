@@ -14,14 +14,14 @@
 <br/>
 
 ---
+
 #  **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Visitor Count](https://profile-counter.glitch.me/{arin2002}/count.svg)
 <div align="center">
-</div>
-
-<div align="center">
 <img src="https://img.shields.io/github/followers/arin2002.svg?style=social&label=Follow"></img>
 </div>
+
+---
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">Languages and Tools:
 
