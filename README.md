@@ -10,7 +10,7 @@
 <!-- - 👨‍💻 View my [Projects](https://github.com/Ash20vyas?tab=repositories). -->
 <!-- - 💪 Check out my latest project: [Stock Market Prediction](https://github.com/Ash20vyas/TSF-Intern-Tasks/tree/main/%232%20-%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis) -->
 - ⚡ Hobbies: Reading, Chess, Working out.
-- 📫 Contact me at **arin.agarwal02@gmail.com**
+- 📫 Contact me at **arin.agarwal02@gmail.com*
 <br/>
 
 ---
